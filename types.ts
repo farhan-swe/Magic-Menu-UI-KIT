@@ -1,0 +1,21 @@
+
+import { ReactNode } from 'react';
+
+export interface MenuItem {
+  id: string;
+  label: string;
+  icon: ReactNode;
+  color: string;
+}
+
+export type MenuStyle = 
+  | 'radial' 
+  | 'gooey' 
+  | 'glass' 
+  | 'cyberpunk' 
+  | 'bento' 
+  | 'neumorphic' 
+  | 'dock' 
+  | 'elastic' 
+  | 'perspective' 
+  | 'magnetic';
