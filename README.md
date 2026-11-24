@@ -2,7 +2,7 @@
 
 A professional-grade collection of 10 distinct, highly interactive, and aesthetically pleasing "Magic Menu" UI components. Built with **React**, **Tailwind CSS**, and **Framer Motion**, this kit is designed to elevate user experiences with smooth physics-based animations and modern design trends.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-khdxsohee%2FMagic--Menu--UI--KIT-blue?logo=github)](https://github.com/khdxsohee/Magic-Menu-UI-KIT)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-farhan-swe%2FMagic--Menu--UI--KIT-blue?logo=github)](https://github.com/farhan-swe/Magic-Menu-UI-KIT)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![Styling](https://img.shields.io/badge/Tailwind--CSS-3.4+-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
@@ -43,7 +43,7 @@ To use these components in your own project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/khdxsohee/Magic-Menu-UI-KIT.git
+   git clone https://github.com/farhan-swe/Magic-Menu-UI-KIT.git
    cd Magic-Menu-UI-KIT
    ```
 
@@ -91,7 +91,7 @@ function App() {
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/khdxsohee/Magic-Menu-UI-KIT/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/farhan-swe/Magic-Menu-UI-KIT/issues).
 
 ## 📜 License
 
@@ -99,9 +99,9 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ## 👤 Author
 
-**khdxsohee**
-*   GitHub: [@khdxsohee](https://github.com/khdxsohee)
-*   Project Link: [Magic-Menu-UI-KIT](https://github.com/khdxsohee/Magic-Menu-UI-KIT)
+**farhan-swe**
+*   GitHub: [@farhan-swe](https://github.com/farhan-swe)
+*   Project Link: [Magic-Menu-UI-KIT](https://github.com/farhan-swe/Magic-Menu-UI-KIT)
 
 ---
 *Show your support by giving a ⭐️ if you like this project!*
